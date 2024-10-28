@@ -41,4 +41,4 @@ python manage.py runserver
 
 
 ## API Documentation
-You can find the API documentation [here]([https://link-to-your-postman-docs](https://web.postman.co/workspace/My-Workspace~6c90f093-7da8-40bb-8e1a-2213a7ec7aca/documentation/33979544-370b8eff-6f04-48f3-b104-525c66d956df)).
+You can find the API documentation [here](https://web.postman.co/workspace/My-Workspace~6c90f093-7da8-40bb-8e1a-2213a7ec7aca/documentation/33979544-370b8eff-6f04-48f3-b104-525c66d956df).
